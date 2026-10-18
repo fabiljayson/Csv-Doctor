@@ -1,0 +1,15 @@
+# Core data processing
+pandas>=2.0.0
+numpy>=1.26.0
+
+# Dashboard
+streamlit>=1.35.0
+
+# Visualizations
+plotly>=5.0.0
+
+# Testing
+pytest>=8.0.0
+
+# Linting and formatting
+ruff>=0.6.0
